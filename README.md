@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Kubernetes**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/burrisaikumar">LinkedIn</a>
 <p align="left">
 </p>
 
